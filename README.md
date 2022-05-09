@@ -1,5 +1,7 @@
 # tinyplm
 
+url - https://tinyplm.vercel.app/
+
 ## Project setup
 ```
 npm install
